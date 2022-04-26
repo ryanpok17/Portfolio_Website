@@ -1,0 +1,7 @@
+body{background-color: aquamarine;margin: 20px;}
+
+h1{color: black; font-style: italic;}
+
+h2{color: gray; font-style: inherit;}
+
+h4{color: blue; font-style: initial;}
